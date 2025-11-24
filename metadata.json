@@ -1,0 +1,5 @@
+{
+  "name": "FocusFlow Study Planner",
+  "description": "A comprehensive study planner with to-do lists, calendar targeting, progress tracking graphs, and a strict focus mode timer with Spotify integration.",
+  "requestFramePermissions": []
+}
